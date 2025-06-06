@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+Name: Ajay 
+Student ID: 4403096
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
